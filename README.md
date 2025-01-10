@@ -25,7 +25,7 @@ I'm open to collaborating on:
 
 ## How to Reach Me
 - GitHub: [@romeroj748-creator](https://github.com/romeroj748-creator)
-- Email: [your-email@example.com]
+- Email: [dwclientsecretapikey@gmail.com]
 
 ## Fun Fact
 I’m fascinated by **quantum computing** and **AI advancements** and their potential impact on industries like healthcare, education, and transportation. I also enjoy exploring unsolved scientific mysteries, including dark matter and the human brain.
