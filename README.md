@@ -1,4 +1,4 @@
-# Hi, I’m Jonathan Gabriel Romero (@romeroj748-creator)
+# Hi, I’m @Romeroj748-creator of @romeroj748
 
 Welcome to my GitHub profile! I'm a technology enthusiast focused on the following areas:
 
